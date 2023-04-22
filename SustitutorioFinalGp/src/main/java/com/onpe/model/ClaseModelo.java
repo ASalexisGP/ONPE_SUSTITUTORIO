@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 public class ClaseModelo {
 
 @Id
-
+//LLAMAR A LOS DATOS DE SQL
 private int idLocalVotacion;
 private String Departamento;
 private String Provincia;
